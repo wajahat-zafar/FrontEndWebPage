@@ -1,0 +1,77 @@
+body{
+    background-image: url('register.jpg');
+}
+
+.navbar{
+    background-color: rgb(85, 84, 84) !important;
+}
+
+.container-fluid{
+    width: 100% !important;
+    background-color: rgb(255, 201, 14);
+    height: 80px;
+}
+.head1{
+    text-align: center;
+    font-size: 20px;
+    color: darkblue;
+    position: relative;
+    bottom: 42px;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.img1{
+    width: 60px;
+    position: relative;
+    top: 3px;
+    right: 13px;
+    border-radius: 10px;
+}
+
+.rounded{
+    width: 170px;
+    position: relative;
+    bottom: 40px;
+}
+
+.nav-item{
+    position: relative;
+    right: 10px;
+}
+
+.nav-link{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.nav-link:hover{
+    background-color: rgb(155, 213, 236);
+}
+.dropdown-item:hover{
+    background-color: rgb(157, 160, 161);
+}
+.img-fluid{
+    width: 100% !important;
+    height: 100% !important;
+}
+
+form{
+    position: relative;
+    height: 5px !important;
+    color: rgb(8, 5, 5);
+}
+.form-group{
+    width: 280px !important;
+}
+.container{
+    position: relative;
+    top: 50px;
+}
+
+.btn{
+    color: white !important;
+}

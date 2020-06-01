@@ -1,0 +1,108 @@
+body{
+    background-image: url('background.jpg')
+}
+.navbar{
+    background-color: rgb(85, 84, 84)!important;
+}
+
+.container-fluid{
+    width: 100% !important;
+    background-color: rgb(255, 201, 14);
+    height: 80px;
+}
+.dropdown-item:hover{
+    background-color: rgb(157, 160, 161);
+}
+.head1{
+    text-align: center;
+    font-size: 20px;
+    color: darkblue;
+    position: relative;
+    bottom: 42px;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.img1{
+    width: 60px;
+    position: relative;
+    top: 3px;
+    right: 13px;
+    border-radius: 10px;
+}
+
+.rounded{
+    width: 170px;
+    position: relative;
+    bottom: 40px;
+}
+
+.nav-item{
+    position: relative;
+    right: 10px;
+}
+
+.nav-link{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.nav-link:hover{
+    background-color: rgb(155, 213, 236);
+}
+.container{
+    background-color: rgb(2, 20, 41) !important;
+
+}
+.container{
+    box-shadow: 2px 2px 6px 4px rgb(56, 56, 56);
+    
+ 
+}
+.card{
+    border-radius: 2px;
+    
+    box-shadow: 2px 2px 8px 5px rgb(95, 94, 94);
+    position: relative;
+    /* top: 50px; */
+    left: 30px;
+    height: 450px;
+}
+.MH1{
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}   
+
+.card-img-top{
+    height: 200px !important;
+}
+.card-text{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+.card-body{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: underline;
+}   
+
+.MH2{
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    position: relative;
+    bottom: 13px;
+}
+.btn{
+    color: white !important;
+}
+
+
